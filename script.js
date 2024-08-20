@@ -23,14 +23,14 @@ onload = ()=>{
 };
 function setLanugage(getLanuage){
 if(getLanuage === "arabic"){
-    title.innerHTML = "مبرمج شيار";
-    welcome.innerHTML = "مرحبا بكم  في صفحة مبرمج شيار";
+    title.innerHTML = "مبرمج علي";
+    welcome.innerHTML = "مرحبا بكم  في صفحة مبرمج علي";
     about.innerHTML = "حولنا";
     aboutText.innerHTML = "انا استاذ برمجيات و مهندس برمجيات";
     contact.innerHTML = "اتصل بنا";
 }else if(getLanuage ==="english"){
-    title.innerHTML = "Coder Shiyar";
-    welcome.innerHTML = "Welcome to website of Coder Shiyar";
+    title.innerHTML = "Coder Alley";
+    welcome.innerHTML = "Welcome to website of Coder Alley";
     about.innerHTML = "  About US";
     aboutText.innerHTML = "  I am a teacher and a Software Developer";
     contact.innerHTML = "Contact us";
